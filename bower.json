@@ -1,0 +1,32 @@
+{
+  "name": "Angular Wiki Module",
+  "authors": [
+    "mudroljub <mudroljub@gmail.com>"
+  ],
+  "description": "AngularJS module for consuming Wikipedia API.",
+  "main": "app.js",
+  "moduleType": [],
+  "keywords": [
+    "JS",
+    "javascript",
+    "angular",
+    "angularjs",
+    "wikipedia",
+    "mediawiki",
+    "api",
+    "wikipedia-api",
+    "mediawiki-api"
+  ],
+  "license": "MIT",
+  "homepage": "http://mudroljub.github.io/angular-wiki-search/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css-only": "~3.3.5"
+  }
+}
